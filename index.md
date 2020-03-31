@@ -1,4 +1,4 @@
-## eat-sleep-hack-repeat
+## Welcome
 
 This is just a web site to share some thoughts
 
