@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: eat-sleep-hack-repeat
 show_downloads: false
+github:
+  is_project_page: false
