@@ -42,7 +42,9 @@ The exam is a practical test over 48 hours to achieve the fully forest compromis
 
 Half an hour before your start time you will receive an email with the VPN details connection to test it in advance. Take into consideration that the exams slots are restricted so if you want a specific date just ask the support team as soon as you know. I had to wait about 5 weeks after the end of the lab.
 
-As a recommendation, you can have in the computer that you will use for the exam a full repository with all the tools used during the lab just to save some time and not lose it downloading the tools.
+![exam result](./exam.png)
+
+As a recommendation, you can have in the computer that you will use for the exam a full repository with all the tools used during the lab just to save some time and not lose it while downloading from internet.
 
 ### final words
 
