@@ -2,4 +2,4 @@
 
 This is just a web site to share some thoughts
 
-[Attacking and Defending Active Directory and Certified Red Team Professional](/CRTP/crtp.md)
+[Windows Red Team Lab and Certified Red Team Expert](/CRTE/crte.md)
